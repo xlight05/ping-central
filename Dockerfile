@@ -1,4 +1,4 @@
-FROM ballerina/ballerina:2201.3.1 AS ballerina-builder
+FROM ballerina/ballerina:2201.6.1 AS ballerina-builder
 USER root
 ADD . /
 
